@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main-div{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/banner-img.jpg);
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+.banner{
+    height: 30rem;
+}
+.icon{
+    transition: 0.4s;
+}
+.icon:hover{
+    color: white;
+}
+.img{
+    background-image: url(../images/3542.jpg);
+    height: 35rem;
+    width: 100rem;
+    background-position: center;
+    background-size: cover;
+}
+.div{
+    height: 35rem;
+}
+.para{
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
+}
+.hr{
+    width: 5rem;
+}
+.img-1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-1.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-2.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-3.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+
+.img-4{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-4.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-5{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-5.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-6{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-6.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+
+.img-7{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-7.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-8{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-8.png);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.img-9{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/img-9.JPG);
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+.para-2{
+    color: rgb(153, 153, 153);
+}
+.main-container{
+    margin-top: 7rem;
+}
+.img-10{
+    background-image: url(../images/img-10.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 40rem;
+}
+.Review{
+    height: 40rem;
+}
+.form-div{
+    height: 35rem;
+}
+.img-12{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.623),rgba(0,0,0,0.5)), url(../images/17467.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 35rem;
+}
+.Mail{
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 5rem;
+}
